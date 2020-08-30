@@ -35,4 +35,6 @@ class Game_Settings(object):
             self.get_game_screen_settings()
 
     def get_game_screen_settings(self):
-        self.game_resolution = (1024, 576) # (1536, 864)
+        self.game_resolution = (1920, 1080)
+        #self.game_resolution = (1024, 576)
+        #self.game_resolution = (1536, 864)
