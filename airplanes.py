@@ -63,7 +63,7 @@ def main():
     # inside it try to load loading's images for 20 seconds or until they load
     # just in case, because of some load errors(cause by antiviruse's scaning) that can appear
     # if after 20 seconds still doesn't load, raise to stop the execution
-    loading_screen = Loading_Screen(surface, current_settings.game_resolution, 8, FPS, "assets\game_images\loading screen images\loading_screen_drawing.png")
+    loading_screen = Loading_Screen(surface, current_settings.game_resolution, 8, FPS, "assets\game_images\loading_screen_images\loading_screen_drawing.png")
 
     # add an icon
 
