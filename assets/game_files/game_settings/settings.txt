@@ -1,0 +1,6 @@
+Big Window
+1024,576
+True
+50
+50
+True
